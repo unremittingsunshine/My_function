@@ -1,2 +1,8 @@
 ﻿  源.cpp
+<<<<<<< HEAD
   my_function.vcxproj -> E:\code\VS\testopencv\my_function\Debug\my_function.exe
+=======
+e:\code\vs\testopencv\my_function_strcpy\my_function\源.cpp(90): warning C4309: “初始化”: 截断常量值
+e:\code\vs\testopencv\my_function_strcpy\my_function\源.cpp(91): warning C4309: “初始化”: 截断常量值
+  my_function.vcxproj -> E:\code\VS\testopencv\my_function_strcpy\Debug\my_function.exe
+>>>>>>> 1743b2d (my_function_strlen)
